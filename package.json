@@ -1,0 +1,23 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "This is the repository for the unit testing section of the JS portion in The Odin Project. The assignments were completed using jest.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddiemaceda11/tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eddiemaceda11/tests/issues"
+  },
+  "homepage": "https://github.com/eddiemaceda11/tests#readme"
+}
